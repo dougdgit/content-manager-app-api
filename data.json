@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Testing Resource Form Component",
+    "description": "Testing Resource Form Component description text which for providing more complete detail and informative information about this new resource i am creating.",
+    "link": "http://mylink.link",
+    "priority": "1",
+    "timeToFinish": 10,
+    "createdAt": "2021-08-20T02:51:11.592Z",
+    "status": "complete",
+    "id": "1629427871592",
+    "activationTime": "2021-08-22T23:13:10.436Z"
+  },
+  {
+    "title": "Third Test Title",
+    "description": "Third Test Title description text, for adding more detail and context to the resource being created.",
+    "link": "http://mylink.link",
+    "priority": "2",
+    "timeToFinish": "360",
+    "createdAt": "2021-08-18T06:55:55.858Z",
+    "status": "inactive",
+    "id": "1629269755858"
+  },
+  {
+    "title": "Second Test Title EDIT",
+    "description": "Second Test Title description text, for providing more detail information about this title.  EDIT",
+    "link": "http://mylink.link EDIT",
+    "priority": "3",
+    "timeToFinish": "160",
+    "createdAt": "2021-08-18T06:35:11.405Z",
+    "status": "complete",
+    "id": "1629268511405",
+    "activationTime": "2021-08-23T09:34:56.863Z"
+  },
+  {
+    "title": "My New Test Title EDIT",
+    "description": "My New Test Title description text. this will provide more detail about this resource.",
+    "link": "http://mylink.link",
+    "priority": "1",
+    "timeToFinish": "60",
+    "createdAt": "2021-08-18T06:30:55.700Z",
+    "status": "complete",
+    "id": "1629268255700",
+    "activationTime": "2021-08-22T05:07:55.175Z"
+  },
+  {
+    "title": "My New First Title!!!",
+    "description": "My New First Title description text.",
+    "link": "http://mylink.link",
+    "priority": "3",
+    "timeToFinish": "260",
+    "createdAt": "2021-08-18T05:18:54.339Z",
+    "status": "inactive",
+    "id": "1629263934339"
+  },
+  {
+    "id": "1",
+    "title": "Learning Sengleton Pattern",
+    "description": "I would like to learn singleton pattern in the Javascript language. It's important for my work to be able to learn this language.",
+    "link": "https://link.com",
+    "priority": 3,
+    "timeToFinish": 120,
+    "createdAt": "2021-08-18T06:30:55.700Z",
+    "status": "inactive"
+  },
+  {
+    "id": "2",
+    "title": "Resource 2 EDIT",
+    "description": "Resource 2 description text, which describes detail about Resource 2.",
+    "link": "https://link.com",
+    "priority": 2,
+    "timeToFinish": 3594,
+    "createdAt": "2021-08-18T06:30:55.700Z",
+    "status": "complete",
+    "activationTime": "2021-08-24T16:00:22.853Z"
+  },
+  {
+    "id": "3",
+    "title": "Resource 3",
+    "description": "Resource 3 description text, which describes detail about Resource 3.",
+    "link": "https://link.com",
+    "priority": 1,
+    "timeToFinish": 30,
+    "createdAt": "2021-08-18T06:30:55.700Z",
+    "status": "inactive"
+  },
+  {
+    "title": "My New Title",
+    "description": "My New Title description text.",
+    "link": "http://mylink.link",
+    "priority": "1",
+    "timeToFinish": "160",
+    "createdAt": "2021-08-18T05:06:37.963Z",
+    "status": "inactive",
+    "id": "1629263197963"
+  }
+]
